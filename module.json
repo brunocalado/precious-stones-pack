@@ -1,0 +1,45 @@
+{   
+  "id": "precious-stones-pack",   
+  "title": "Precious Stones Pack",
+  "description": "A pack with Precious Stones to use in fantasy games.",   
+  
+  "authors": [
+    {
+      "name": "Mestre Digital",
+      "url": "https://www.youtube.com/c/MestreDigital",
+      "flags": {}
+    }
+  ],
+  
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  
+  "scripts": [],  
+	"esmodules": [],
+
+  "packs": [  
+    {
+      "label": "Precious Stones",
+      "type": "JournalEntry",
+      "name": "precious-stones",
+      "path": "packs/precious-stones.db"
+    },
+    {
+      "label": "Precious Stones - SWADE",
+      "type": "Adventure",
+      "name": "precious-stones-swade",
+      "path": "packs/precious-stones-swade.db",
+      "system": "swade"
+    }  
+  ],
+
+ "styles": [],
+  
+  "url": "https://github.com/brunocalado/precious-stones-pack",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/precious-stones-pack/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/precious-stones-pack/zip/main"
+  
+}
