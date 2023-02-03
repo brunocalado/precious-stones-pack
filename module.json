@@ -33,7 +33,14 @@
       "name": "precious-stones-swade",
       "path": "packs/precious-stones-swade.db",
       "system": "swade"
-    }  
+    },
+    {
+      "label": "Precious Stones - Pf2e",
+      "type": "Item",
+      "name": "precious-stones-pf2e",
+      "path": "packs/precious-stones-pf2e.db",
+      "system": "pf2e"
+    }
   ],
 
  "styles": [],
