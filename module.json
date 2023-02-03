@@ -1,7 +1,7 @@
 {   
   "id": "precious-stones-pack",   
-  "title": "Precious Stones Pack",
-  "description": "A pack with Precious Stones to use in fantasy games.",   
+  "title": "Precious Stones Art Pack",
+  "description": "Precious stones art pack to use in fantasy games. Loot, crafting material, magical stone. You choose.",   
   
   "authors": [
     {
@@ -11,7 +11,7 @@
     }
   ],
   
-  "version": "0.0.3",
+  "version": "0.0.4",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -33,7 +33,14 @@
       "name": "precious-stones-swade",
       "path": "packs/precious-stones-swade.db",
       "system": "swade"
-    }  
+    },
+    {
+      "label": "Precious Stones - PF2e",
+      "type": "Item",
+      "name": "precious-stones-pf2e",
+      "path": "packs/precious-stones-pf2e.db",
+      "system": "pf2e"
+    }
   ],
 
  "styles": [],
