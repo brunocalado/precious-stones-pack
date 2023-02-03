@@ -19,6 +19,9 @@ There are items created for the **SWADE** system in a compendium.
   <img width="500" src="docs/docs_swade.webp">
 </p>
 
+# Acknowledgements
+- DawidIzydor
+
 # License
 - Art by https://www.midjourney.com under https://creativecommons.org/licenses/by-nc/4.0/
 - Legalcode: https://creativecommons.org/licenses/by-nc/4.0/legalcode
