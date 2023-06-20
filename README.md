@@ -25,3 +25,6 @@ There are items created for the **SWADE** system in a compendium.
 # License
 - Art by https://www.midjourney.com under https://creativecommons.org/licenses/by-nc/4.0/
 - Legalcode: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+# Mestre Digital
+About this module creator: https://sites.google.com/view/mestredigitalmodules

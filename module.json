@@ -1,8 +1,7 @@
-{   
-  "id": "precious-stones-pack",   
+{
+  "id": "precious-stones-pack",
   "title": "Precious Stones Art Pack",
-  "description": "Precious stones art pack to use in fantasy games. Loot, crafting material, magical stone. You choose.",   
-  
+  "description": "Precious stones art pack to use in fantasy games. Loot, crafting material, magical stone. You choose.",
   "authors": [
     {
       "name": "Mestre Digital",
@@ -10,43 +9,40 @@
       "flags": {}
     }
   ],
-  
-  "version": "0.0.4",
+  "version": "0.0.5",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "11"
   },
-  
-  "scripts": [],  
-	"esmodules": [],
-
-  "packs": [  
+  "packs": [
     {
       "label": "Precious Stones",
       "type": "JournalEntry",
       "name": "precious-stones",
-      "path": "packs/precious-stones.db"
+      "path": "packs/precious-stones",
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Precious Stones - SWADE",
       "type": "Adventure",
       "name": "precious-stones-swade",
-      "path": "packs/precious-stones-swade.db",
-      "system": "swade"
+      "path": "packs/precious-stones-swade",
+      "system": "swade",
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Precious Stones - PF2e",
       "type": "Item",
       "name": "precious-stones-pf2e",
-      "path": "packs/precious-stones-pf2e.db",
-      "system": "pf2e"
+      "path": "packs/precious-stones-pf2e",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
     }
   ],
-
- "styles": [],
-  
   "url": "https://github.com/brunocalado/precious-stones-pack",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/precious-stones-pack/main/module.json",  
+  "manifest": "https://raw.githubusercontent.com/brunocalado/precious-stones-pack/main/module.json",
   "download": "https://codeload.github.com/brunocalado/precious-stones-pack/zip/main"
-  
 }
