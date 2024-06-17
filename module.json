@@ -9,10 +9,10 @@
       "flags": {}
     }
   ],
-  "version": "0.0.6",
+  "version": "0.0.7",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "packs": [
     {
@@ -42,6 +42,21 @@
       "flags": {}
     }
   ],
+  
+  "packFolders": [
+    {
+      "name": "Precious Stones Art Pack",
+      "sorting": "a",
+      "color": "#5987bb",
+      "packs": [
+        "precious-stones",
+        "precious-stones-swade",
+        "precious-stones-pf2e"
+      ],
+      "folders": []
+    }
+  ],
+  
   "url": "https://github.com/brunocalado/precious-stones-pack",
   "manifest": "https://raw.githubusercontent.com/brunocalado/precious-stones-pack/main/module.json",
   "download": "https://codeload.github.com/brunocalado/precious-stones-pack/zip/main"

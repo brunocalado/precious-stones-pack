@@ -1,3 +1,5 @@
-2024/01/16-16:00:17.334 eb8 Recovering log #347
-2024/01/16-16:00:17.345 eb8 Delete type=0 #347
-2024/01/16-16:00:17.346 eb8 Delete type=3 #346
+2024/06/17-12:54:25.011 5f54 Log #352: 0 ops saved to Table #353 OK
+2024/06/17-12:54:25.012 5f54 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\precious-stones-pack\packs\precious-stones/000352.log: OK
+2024/06/17-12:54:25.012 5f54 Table #5: 47 entries OK
+2024/06/17-12:54:25.013 5f54 Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\precious-stones-pack\packs\precious-stones/MANIFEST-000350: OK
+2024/06/17-12:54:25.015 5f54 **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\precious-stones-pack\packs\precious-stones; recovered 1 files; 5395 bytes. Some data may have been lost. ****
