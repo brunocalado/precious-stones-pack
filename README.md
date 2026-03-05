@@ -19,12 +19,16 @@ There are items created for the **SWADE** system in a compendium.
   <img width="500" src="docs/docs_swade.webp">
 </p>
 
+## Daggerheart
+There are items created for the **Daggerheart** system in a compendium.
+
+<p align="center">
+  <img width="500" src="docs/docs_dh.webp">
+</p>
+
 # Acknowledgements
 - DawidIzydor
 
 # License
 - Art by https://www.midjourney.com under https://creativecommons.org/licenses/by-nc/4.0/
 - Legalcode: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-
-# Mestre Digital
-About this module creator: https://sites.google.com/view/mestredigitalmodules

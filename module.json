@@ -9,10 +9,10 @@
       "flags": {}
     }
   ],
-  "version": "0.0.7",
+  "version": "0.0.8",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "packs": [
     {
@@ -20,7 +20,6 @@
       "type": "JournalEntry",
       "name": "precious-stones",
       "path": "packs/precious-stones",
-      "private": false,
       "flags": {}
     },
     {
@@ -29,7 +28,6 @@
       "name": "precious-stones-swade",
       "path": "packs/precious-stones-swade",
       "system": "swade",
-      "private": false,
       "flags": {}
     },
     {
@@ -38,7 +36,14 @@
       "name": "precious-stones-pf2e",
       "path": "packs/precious-stones-pf2e",
       "system": "pf2e",
-      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Precious Stones - Daggerheart",
+      "type": "Item",
+      "name": "precious-stones-daggerheart",
+      "path": "packs/precious-stones-daggerheart",
+      "system": "daggerheart",
       "flags": {}
     }
   ],
@@ -51,7 +56,8 @@
       "packs": [
         "precious-stones",
         "precious-stones-swade",
-        "precious-stones-pf2e"
+        "precious-stones-pf2e",
+        "precious-stones-daggerheart"
       ],
       "folders": []
     }
