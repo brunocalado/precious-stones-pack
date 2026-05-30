@@ -2,18 +2,20 @@
   "id": "precious-stones-pack",
   "title": "Precious Stones Art Pack",
   "description": "Precious stones art pack to use in fantasy games. Loot, crafting material, magical stone. You choose.",
+  
   "authors": [
     {
       "name": "Mestre Digital",
-      "url": "https://www.youtube.com/c/MestreDigital",
-      "flags": {}
+      "url": "https://www.youtube.com/@mestredigital"
     }
   ],
-  "version": "0.1.0",
+  
+  "version": "0.2.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14"
   },
+  
   "packs": [
     {
       "label": "Precious Stones",

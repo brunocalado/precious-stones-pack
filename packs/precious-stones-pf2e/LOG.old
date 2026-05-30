@@ -1,5 +1,12 @@
-2024/06/17-12:54:25.025 63c Log #4: 0 ops saved to Table #6 OK
-2024/06/17-12:54:25.026 63c Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\precious-stones-pack\packs\precious-stones-pf2e/000004.log: OK
-2024/06/17-12:54:25.026 63c Table #5: 47 entries OK
-2024/06/17-12:54:25.028 63c Archiving C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\precious-stones-pack\packs\precious-stones-pf2e/MANIFEST-000002: OK
-2024/06/17-12:54:25.029 63c **** Repaired leveldb C:\Users\Bruno\Documents\VTT\fvttdev\Data\modules\precious-stones-pack\packs\precious-stones-pf2e; recovered 1 files; 17648 bytes. Some data may have been lost. ****
+2024/06/17-12:54:25.033 63c Delete type=3 #1
+2024/06/17-12:54:47.323 3f24 Level-0 table #10: started
+2024/06/17-12:54:47.325 3f24 Level-0 table #10: 18126 bytes OK
+2024/06/17-12:54:47.326 3f24 Delete type=0 #8
+2024/06/17-12:54:47.330 3f24 Manual compaction at level-0 from '!items!29Lqk7sH6SwNWgWg' @ 72057594037927935 : 1 .. '!items!zufjYNLAekYoMueS' @ 0 : 0; will stop at '!items!zufjYNLAekYoMueS' @ 44 : 1
+2024/06/17-12:54:47.330 3f24 Compacting 2@0 + 0@1 files
+2024/06/17-12:54:47.331 3f24 Generated table #11@0: 47 keys, 18126 bytes
+2024/06/17-12:54:47.331 3f24 Compacted 2@0 + 0@1 files => 18126 bytes
+2024/06/17-12:54:47.331 3f24 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/17-12:54:47.331 3f24 Delete type=2 #5
+2024/06/17-12:54:47.331 3f24 Delete type=2 #10
+2024/06/17-12:54:47.331 3f24 Manual compaction at level-0 from '!items!zufjYNLAekYoMueS' @ 44 : 1 .. '!items!zufjYNLAekYoMueS' @ 0 : 0; will stop at (end)
