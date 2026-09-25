@@ -1,34 +1,25 @@
-# Precious Stones Art Pack
-Precious stones art pack to use in fantasy games. Loot, crafting material, magical stone. You choose.
+# Precious Stones Pack
+Precious stones for fantasy games. Loot, crafting material, magical stone. You choose.
 
-## All Systems
+All images use Foundry VTT's built-in core icons (`icons/commodities/...`), so the module ships no artwork of its own.
 
-The arts are in a compendium journal which can be used in any system.
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mestredigital) [![More Modules](https://img.shields.io/badge/Foundry%20VTT-More%20Modules-red?style=for-the-badge&logo=gamepad)](https://mestredigital.online/pages/projetos-en)
+
 <p align="center">
-  <img width="500" src="docs/docs_arts.webp">
+  <img width="700" src="docs/preview.webp">
 </p>
 
 ## Pathfinder 2e
 
 There are items created for the **Pathfinder 2e** system in a compendium.
-<p align="center">
-  <img width="500" src="docs/docs_pf2e.webp">
-</p>
 
 ## SWADE
 
 There are items created for the **SWADE** system in a compendium.
-<p align="center">
-  <img width="500" src="docs/docs_swade.webp">
-</p>
 
 ## Daggerheart
 
 There are items created for the **Daggerheart** system in a compendium.
-
-<p align="center">
-  <img width="500" src="docs/docs_dh.webp">
-</p>
 
 # Acknowledgements
 
@@ -36,4 +27,4 @@ There are items created for the **Daggerheart** system in a compendium.
 
 # License
 
-- Art by https://www.midjourney.com under https://creativecommons.org/licenses/by-nc/4.0/
+- Icons are the core icons bundled with Foundry VTT.
